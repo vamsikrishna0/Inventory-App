@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Inventory App</string>
+    <string name="name">Product Name</string>
+    <string name="quantity">Quantity</string>
+    <string name="price">Price</string>
+    <string name="Picture">Picture</string>
+    <string name="supplier">Supplier</string>
+
+    <string name="supplier_email">www.supplier@gmail.com</string>
+    <string name="new_quantity">new quantity</string>
+    <string name="sale">Sale</string>
+    <string name="modify">modify</string>
+    <string name="order">order</string>
+    <string name="delete">delete Product</string>
+    <string name="no_item">Currently no products available. To add products click the add button above</string>
+</resources>
